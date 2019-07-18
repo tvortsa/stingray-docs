@@ -1,6 +1,6 @@
-# Welcome to the docs repo for the Stingray interactive component
+# Добро пожаловать в реппозиторий документации для интерактивного компонента Stingray
 
-This repository hosts all the source files that are used to build public-facing documentation for Stingray, and for the products that ship with Stingray as an interactive component (currently 3ds Max Interactive and Maya Interactive).
+Этот репозиторий содержит все исходные файлы, которые используются для создания общедоступной документации для Stingray, и для продуктов, которые поставляются с Stingray как компонент interactive (на сегодня это 3ds Max Interactive и Maya Interactive).
 
 This readme is intended to orient internal Autodesk developers and external customers to our help and docs systems.
 
